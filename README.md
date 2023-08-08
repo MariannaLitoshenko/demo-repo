@@ -6,4 +6,5 @@ This is a demo repository as demonstrated by Gwen Faraday with freeCodeCamp.org 
 If you would like to check out this easy-to-follow, hour-long tutorial, here is the link:  
 [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
-Happy Coding!
+## Added Sub-Header
+1.open index.html in browser
